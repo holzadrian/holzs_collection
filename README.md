@@ -24,49 +24,25 @@ Desenvolvimento de uma loja virtual completa com:
 - ✅ Navegação por categorias
 - ✅ Visualização de produtos com imagens frontais e traseiras
 
-## 🎯 Estrutura do Projeto
-
-projeto/
-├── index.html
-├── styles/
-│ └── main.css
-├── images/
-│ ├── produtos/
-│ │ ├── camisetas/
-│ │ ├── calcas/
-│ │ └── tenis/
-│ └── icons/
-└── scripts/
-└── main.js
-
-📱 Responsividade
+## 📱 Responsividade
 
 O site utiliza o sistema de grid do Bootstrap para se adaptar perfeitamente a:
+- Dispositivos móveis (col-12)
+- Tablets (col-sm-6)
+- Desktops (col-lg-3)
 
-Dispositivos móveis (col-12)
+## 🔮 Próximas Implementações
 
-Tablets (col-sm-6)
+- Sistema para calcular frete
+- Páginas individuais para cada produto
+- Integração com gateway de pagamento
+- Sistema de avaliações de produtos
+- Sistema de pesquisa com filtro por tamanho, cor e preço
 
-Desktops (col-lg-3)
-
-🔮 Próximas Implementações
-
-Sistema de carrinho de compras
-
-Páginas individuais para cada produto
-
-Integração com gateway de pagamento
-
-Sistema de avaliações de produtos
-
-Filtros por tamanho, cor e preço
-
-📞 Contato
+## 📞 Contato
 
 Se tiver dúvidas ou sugestões, entre em contato:
-
-Email: holzadrian8@gmail.com
-
-LinkedIn: Adrian Holz
+- Email: holzadrian8@gmail.com
+- LinkedIn: Adrian Holz
 
 Nota: Este projeto está em desenvolvimento ativo. Novas funcionalidades são adicionadas regularmente.
