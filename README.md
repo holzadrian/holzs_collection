@@ -1,4 +1,4 @@
-# 🛍️ holzs_collection - E-commerce de Moda
+# 🛍️ Holz's Collection - E-commerce de Moda
 
 Este projeto é um site de e-commerce especializado em vendas de roupas, calças e tênis, desenvolvido com foco em uma experiência de usuário moderna e responsiva.
 
